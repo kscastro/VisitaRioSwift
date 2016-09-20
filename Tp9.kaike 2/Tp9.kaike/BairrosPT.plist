@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bairros</key>
+	<array>
+		<array>
+			<string>Copacabana</string>
+			<array>
+				<dict>
+					<key>Nome</key>
+					<string>Forte de Copacabana</string>
+					<key>Imagem</key>
+					<string>Forte-de-Copacabana</string>
+					<key>Tipo</key>
+					<string>Museu</string>
+					<key>Endereço</key>
+					<string>Av. Atlântica - Copacabana - RJ</string>
+					<key>Avaliacao</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>Nome</key>
+					<string>Praia de Copacabana</string>
+					<key>Imagem</key>
+					<string>Praia-Copacabana</string>
+					<key>Tipo</key>
+					<string>Praia</string>
+					<key>Endereço</key>
+					<string>Av. Atlântica - Copacabana - RJ</string>
+					<key>Avaliacao</key>
+					<string>8</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>São Cristovão</string>
+			<array>
+				<dict>
+					<key>Nome</key>
+					<string>Feira de São Cristovão</string>
+					<key>Imagem</key>
+					<string>Feira-Sao-Cristovao</string>
+					<key>Tipo</key>
+					<string>Centro Cultural</string>
+					<key>Endereço</key>
+					<string>Campo de São Cristóvão, s/n- Rio de Janeiro</string>
+					<key>Avaliacao</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>Nome</key>
+					<string>Quinta da Boa Vista</string>
+					<key>Imagem</key>
+					<string>Quinta-Boa</string>
+					<key>Tipo</key>
+					<string>Parque ao Ar livre</string>
+					<key>Endereço</key>
+					<string>Av. Pedro II, s/n - São Cristóvão</string>
+					<key>Avaliacao</key>
+					<string>7</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Jardim botanico</string>
+			<array>
+				<dict>
+					<key>Nome</key>
+					<string>Parque Lage</string>
+					<key>Imagem</key>
+					<string>Parque-lage</string>
+					<key>Tipo</key>
+					<string>Parque ao Ar livre</string>
+					<key>Endereço</key>
+					<string>R. Jardim Botânico, 414 -</string>
+					<key>Avaliacao</key>
+					<string>9</string>
+				</dict>
+				<dict>
+					<key>Nome</key>
+					<string>Jardim Botanico</string>
+					<key>Imagem</key>
+					<string>Jardim-Boto</string>
+					<key>Tipo</key>
+					<string>Parque ao Ar livre</string>
+					<key>Endereço</key>
+					<string>R. Jardim Botânico, 1008 </string>
+					<key>Avaliacao</key>
+					<string>10</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Maracanã</string>
+			<array>
+				<dict>
+					<key>Nome</key>
+					<string>Estádio Mario Filho</string>
+					<key>Imagem</key>
+					<string>maracana</string>
+					<key>Tipo</key>
+					<string>Estádio</string>
+					<key>Endereço</key>
+					<string>Av. Pres. Castelo Branco</string>
+					<key>Avaliacao</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>Nome</key>
+					<string>Palacio Laguna</string>
+					<key>Imagem</key>
+					<string>palacete laguna</string>
+					<key>Tipo</key>
+					<string>Museu</string>
+					<key>Endereço</key>
+					<string>Rua Gen. Canabarro</string>
+					<key>Avaliacao</key>
+					<string>8</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Cosme Velho</string>
+			<array>
+				<dict>
+					<key>Nome</key>
+					<string>Corcovado</string>
+					<key>Imagem</key>
+					<string>cristo</string>
+					<key>Tipo</key>
+					<string>Ao ar Livre</string>
+					<key>Endereço</key>
+					<string>Parque Nacional da Tijuca</string>
+					<key>Avaliacao</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>Nome</key>
+					<string>Igreja SãoJudas Tadeu</string>
+					<key>Imagem</key>
+					<string>sao-judas</string>
+					<key>Tipo</key>
+					<string>Igreja</string>
+					<key>Endereço</key>
+					<string>Rua cosme Velho - Rio de Janeiro</string>
+					<key>Avaliacao</key>
+					<string>9</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Urca</string>
+			<array>
+				<dict>
+					<key>Nome</key>
+					<string>Pão de Açucar</string>
+					<key>Imagem</key>
+					<string>pao</string>
+					<key>Tipo</key>
+					<string>Ao ar Livre</string>
+					<key>Endereço</key>
+					<string>Av. Pasteur, 214 - Urca</string>
+					<key>Avaliacao</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>Nome</key>
+					<string>Mureta da Urca</string>
+					<key>Imagem</key>
+					<string>mureta</string>
+					<key>Tipo</key>
+					<string>Ao ar Livre</string>
+					<key>Endereço</key>
+					<string>Av. Pasteur, 214 - Urca</string>
+					<key>Avaliacao</key>
+					<string>8</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Barra da Tijuca</string>
+			<array>
+				<dict>
+					<key>Nome</key>
+					<string>Parque Olimpico</string>
+					<key>Imagem</key>
+					<string>parque-olimpico</string>
+					<key>Tipo</key>
+					<string>Ao ar Livre</string>
+					<key>Endereço</key>
+					<string>Av. Embaixador Abelardo Bueno</string>
+					<key>Avaliacao</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>Nome</key>
+					<string>Pedra da Gavea</string>
+					<key>Imagem</key>
+					<string>pedra-da-gavea</string>
+					<key>Tipo</key>
+					<string>Ao ar Livre</string>
+					<key>Endereço</key>
+					<string>Estr. do Joá, 2018 - Joá</string>
+					<key>Avaliacao</key>
+					<string>8</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Ipanema</string>
+			<array>
+				<dict>
+					<key>Nome</key>
+					<string>Praia do Arpoador</string>
+					<key>Imagem</key>
+					<string>arpoador</string>
+					<key>Tipo</key>
+					<string>Praia</string>
+					<key>Endereço</key>
+					<string>Av. Vieira Souto - Rio de Janeiro</string>
+					<key>Avaliacao</key>
+					<string>9</string>
+				</dict>
+				<dict>
+					<key>Nome</key>
+					<string>Praia de Ipanema</string>
+					<key>Imagem</key>
+					<string>ipanema</string>
+					<key>Tipo</key>
+					<string>Praia</string>
+					<key>Endereço</key>
+					<string>Av. Vieira Souto - Rio de Janeiro</string>
+					<key>Avaliacao</key>
+					<string>8</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Centro</string>
+			<array>
+				<dict>
+					<key>Nome</key>
+					<string>Candelaria</string>
+					<key>Imagem</key>
+					<string>candelaria</string>
+					<key>Tipo</key>
+					<string>Igreja</string>
+					<key>Endereço</key>
+					<string>Av. Pres. Vargas, 217 - Rio de Janeiro</string>
+					<key>Avaliacao</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>Nome</key>
+					<string>Teatro Municipal</string>
+					<key>Imagem</key>
+					<string>teatro</string>
+					<key>Tipo</key>
+					<string>teatro</string>
+					<key>Endereço</key>
+					<string>Praça Floriano, S/N - Rio de Janeiro</string>
+					<key>Avaliacao</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>Nome</key>
+					<string>Museu do Amanhã</string>
+					<key>Imagem</key>
+					<string>museu-amanha</string>
+					<key>Tipo</key>
+					<string>Museu</string>
+					<key>Endereço</key>
+					<string>Praça Maua - Rio de Janeiro</string>
+					<key>Avaliacao</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>Nome</key>
+					<string>Lapa</string>
+					<key>Imagem</key>
+					<string>lapa</string>
+					<key>Tipo</key>
+					<string>Local de Eventos</string>
+					<key>Endereço</key>
+					<string>Rua do Riachuelo - Rio de Janeiro</string>
+					<key>Avaliacao</key>
+					<string>9</string>
+				</dict>
+				<dict>
+					<key>Nome</key>
+					<string>Centro Cultural</string>
+					<key>Imagem</key>
+					<string>ccbb</string>
+					<key>Tipo</key>
+					<string>Museu</string>
+					<key>Endereço</key>
+					<string>Rua Primeiro de Março - Rio de Janeiro</string>
+					<key>Avaliacao</key>
+					<string>9</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Duque de Caxias</string>
+			<array>
+				<dict>
+					<key>Nome</key>
+					<string>Museu do São Bento</string>
+					<key>Imagem</key>
+					<string>saobento</string>
+					<key>Tipo</key>
+					<string>Museu</string>
+					<key>Endereço</key>
+					<string>Rua Benjamin da Rocha , Duque de Caxias</string>
+					<key>Avaliacao</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>Nome</key>
+					<string>Igreja do Pilar</string>
+					<key>Imagem</key>
+					<string>pilar</string>
+					<key>Tipo</key>
+					<string>Igreja</string>
+					<key>Endereço</key>
+					<string>Rua Tescana - Pilar,Duque de Caxias</string>
+					<key>Avaliacao</key>
+					<string>5</string>
+				</dict>
+			</array>
+		</array>
+		<array>
+			<string>Petropolis</string>
+			<array>
+				<dict>
+					<key>Nome</key>
+					<string>Museu Imperial</string>
+					<key>Imagem</key>
+					<string>museuimperial</string>
+					<key>Tipo</key>
+					<string>Museu</string>
+					<key>Endereço</key>
+					<string>Rua da Imperatriz, 220 - Rio de Janeiro</string>
+					<key>Avaliacao</key>
+					<string>10</string>
+				</dict>
+				<dict>
+					<key>Nome</key>
+					<string>Palacio de Cristal</string>
+					<key>Imagem</key>
+					<string>palacio-vidro</string>
+					<key>Tipo</key>
+					<string>Ao ar Livre</string>
+					<key>Endereço</key>
+					<string>Rua alfredo pacha</string>
+					<key>Avaliacao</key>
+					<string>10</string>
+				</dict>
+			</array>
+		</array>
+	</array>
+</dict>
+</plist>
